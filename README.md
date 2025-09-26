@@ -14,3 +14,9 @@ Zdroj: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/360
 - Implementace metody gradient descent
 - Výpočet nákladové funkce
 - Vykreslení grafu
+
+## Výsledek
+
+Z grafu je patrné, že hodnota nákladové funkce (cost function) postupně klesá s rostoucím počtem iterací. Křivka má konvergenční charakter. To ukazuje, že algoritmus gradient descent funguje správně: optimalizuje parametry θ (theta) směrem k optimálním hodnotám a nákladová funkce klesá.
+
+![alt text](image.png)
